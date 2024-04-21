@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-lates
     steps:
       - name: my-step
-        run: echo "hello world"
+        run: echo "hello world 2"
