@@ -6,7 +6,6 @@ on:
   pull_request:
     branches:
       -main
-  workfow_dispatch:
 
 jobs:
   hello:
